@@ -6,9 +6,9 @@ Whether you're a beginner looking to learn the basics of C programming or an exp
 ---------------------------------
 #Table of Contents
 -----------------
-1- Getting Started
-2- Lab Structure
-3- Running the Labs
+Getting Started
+Lab Structure
+Running the Labs
 -------------------------------
 #Getting Started
 ----------------
