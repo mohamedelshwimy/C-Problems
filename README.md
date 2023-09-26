@@ -1,4 +1,4 @@
-C Problems
+C-Programming-ITI-Labs
 -------------------
 
 Welcome to the C Programming Labs repository!
