@@ -1,4 +1,4 @@
-##C Programming Labs
+C Programming Labs
 -------------------
 
 Welcome to the C Programming Labs repository!
@@ -6,7 +6,7 @@ This repository is designed to help you practice and improve your C programming 
 Whether you're a beginner looking to learn the basics of C programming or an experienced developer honing your skills, these labs provide a structured way to practice and expand your knowledge.
 
 ---------------------------------
-#Table of Contents
+Table of Contents
 -----------------
 
 Getting Started
@@ -16,7 +16,7 @@ Lab Structure
 Running the Labs
 
 -------------------------------
-#Getting Started
+Getting Started
 ----------------
 
 To get started with these C programming labs, follow these steps:
@@ -43,7 +43,7 @@ Submit Your Solution: Once you've completed the lab, follow the submission guide
 Repeat: Move on to the next lab and repeat the process until you've completed all the labs.
 
 --------------------------------
-#Lab Structure
+Lab Structure
 -----------------
 
 Each lab in this repository consists of multiple questions to solve using programing languages and the solution for these issues
