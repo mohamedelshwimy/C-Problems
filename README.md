@@ -1,4 +1,4 @@
-C Programming Labs
+C Problems
 -------------------
 
 Welcome to the C Programming Labs repository!
